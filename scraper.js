@@ -492,7 +492,7 @@ class WebScraper {
             
             // Step 1: Navigate to login page
             console.log('Step 1: Navigating to login page...');
-            await this.navigateTo('https://www.latinamericancupid.com/es/auth/login');
+            await this.navigateTo('https://www.colombiancupid.com/es/auth/login');
             
             // Step 2: Wait for page load and perform login
             console.log('Step 2: Waiting for page load and performing login...');
